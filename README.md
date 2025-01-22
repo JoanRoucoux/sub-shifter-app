@@ -2,6 +2,8 @@
 
 This app is a simple tool that allows you to shift the timecodes of your subtitles to perfectly sync them with your video.
 
+<img width="1540" alt="Screenshot 2025-01-21 at 18 55 22" src="https://github.com/user-attachments/assets/f5137774-db90-4479-ab20-1de6fc05a0ac" />
+
 ## Features
 
 - **Shift Subtitles**: Adjust subtitle timings based on the desired offset.
@@ -57,8 +59,6 @@ Before you can run the app, ensure you have the following installed:
 
 - **Problem**: The app is not accepting my SRT file.
   - **Solution**: Double-check that the file is in SRT format and not empty. The app supports SRT files only.
-
-## Images
 
 ## Contributing
 
