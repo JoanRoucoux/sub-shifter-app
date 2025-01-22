@@ -4,6 +4,8 @@ This app is a simple tool that allows you to shift the timecodes of your subtitl
 
 <img width="1540" alt="Screenshot 2025-01-21 at 18 55 22" src="https://github.com/user-attachments/assets/f5137774-db90-4479-ab20-1de6fc05a0ac" />
 
+You can learn more about this app and the technologies used by reading [this article](https://dev.to/joanroucoux/easily-sync-your-subtitles-with-react-rhf-and-shadcnui-3gfe).
+
 ## Features
 
 - **Shift Subtitles**: Adjust subtitle timings based on the desired offset.
